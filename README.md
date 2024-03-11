@@ -25,13 +25,13 @@ id: 2  quantity: 70, name: 'Футболка', description: 'Большое оп
 
 _CharValues_
 
-productId: 1 , propertyId: 1, valueType: list, value: 1(ссылка на белый цвет)
+product_Id: 1 , property_Id: 1, valueType: list, value: 1(ссылка на белый цвет)
 
-productId: 2 , propertyId: 2, valueType: number, value: 37 
+product_Id: 2 , property_Id: 2, valueType: number, value: 37 
 
- productId: 1, propertyId: 1, valueType: list, value: 2(ссылка на синий цвет)
+ product_Id: 1, property_Id: 1, valueType: list, value: 2(ссылка на синий цвет)
 
-productId: 2,  propertyId: 2, valueType: number, value: 39
+product_Id: 2,  property_Id: 2, valueType: number, value: 39
 
 
 _Properties_
