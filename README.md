@@ -5,7 +5,7 @@
 
 ## Задание 1
 
-* [Ссылка](https://drive.google.com/file/d/1n3UNVYJbEKxrkqJ-EkWOnFJyxWjDk4Kf/view?usp=sharing) - Визуализация таблицы.
+* [Ссылка](https://drive.google.com/file/d/17JqEQG0YXV1-_Bap8KamgoKwf6gyiEot/view?usp=sharing) - Визуализация таблицы.
 
 Описание таблиц:
 1. Таблица Product - используется для отображения товара со свойствами конкретной позиции.
@@ -25,13 +25,13 @@ id: 2  quantity: 70, name: 'Футболка', description: 'Большое оп
 
 _CharValues_
 
-char_Set_Id: 1, productId: 1 , propertyId: 1, valueType: list, value: 1(ссылка на белый цвет)
+productId: 1 , propertyId: 1, valueType: list, value: 1(ссылка на белый цвет)
 
-char_Set_Id: 1, productId: 2 , propertyId: 2, valueType: number, value: 37 
+productId: 2 , propertyId: 2, valueType: number, value: 37 
 
-char_Set_Id: 2, productId: 1, propertyId: 1, valueType: list, value: 2(ссылка на синий цвет)
+ productId: 1, propertyId: 1, valueType: list, value: 2(ссылка на синий цвет)
 
-char_Set_Id: 2, productId: 2,  propertyId: 2, valueType: number, value: 39
+productId: 2,  propertyId: 2, valueType: number, value: 39
 
 
 _Properties_
