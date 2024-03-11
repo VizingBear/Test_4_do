@@ -48,3 +48,22 @@ id: 2, property_Id: 1, value: 'Красный'
 
 id: 3, property_Id: 1, value: 'Синий'
 
+
+## Задание 2
+
+
+_Для запуска приложения необходимо ввести команду в терминале из папки src._
+
+
+```bash
+uvicorn main:app --reload
+```
+
+_Для просмотра API необходимо ввести в адресной строке ._
+
+Explain how to test the project and give some example.
+
+```bash
+http://127.0.0.1:8000/docs
+```
+
